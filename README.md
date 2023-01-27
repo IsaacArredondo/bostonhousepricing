@@ -14,19 +14,19 @@ Create an Apache Licence 2.0 and I cloned it in a folder in my computer.
 
 Create a new environment
 
-'''
+```
 conda create -p venv python==3.7 -y
-'''
+```
 
 After, I activated the environment to work there with specific requeriments. Also, I select the correct enviroment in my python file
 
-'''
+```
 conda activate venv/
-'''
+```
 
 Then, we can setting up Git:
 
-'''
+```
 git config --global user.name "Isaac Arredondo"
 git config --global user.email "isaacarredondopadron@gmail.com"
-'''
+```
